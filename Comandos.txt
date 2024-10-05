@@ -1,0 +1,31 @@
+/// Comandos de Windows
+
+dir  Muestra todas las carpetas y archivos de la ruta en la que estamos.
+
+cd + nombre de carpeta  Nos movemos a dicha carpeta
+
+cd + más ruta  Nos movemos a dicha ruta
+
+cd .. Salimos de la carpeta
+
+mkdir + nombre de carpeta  Crea una carpeta con ese nombre
+
+rm dir /s + nombre de la carpeta  Borra la carpeta del mismo nombre
+
+del + nombre  Borra el archivo con el mismo nombre 
+
+
+/// Comandos de MacOs
+
+ls   Muestra todas las carpetas y archivos de la ruta en la que estamos
+
+cd + nombre de carpeta  Nos movemos a dicha carpeta
+
+cd + más ruta  Nos movemos a dicha ruta
+
+cd .. Salimos de la carpeta
+
+mkdir + nombre de carpeta  Crea una carpeta con ese nombre
+
+rm + nombre del archivo  Elimina Archivos
+rm -r + nombre de la carpta   Elimina carpeta
